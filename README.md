@@ -77,7 +77,7 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
 
 <div width="100%" align="center">
   <a href="https://www.khwaahish.com/" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Netflix&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=khwaahish&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Usaid619/Think" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Think&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
@@ -98,6 +98,7 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
 ---
 
 ### ⚡ Fun Fact
+
 "I'm secretly Spiderman... but don't tell anyone 🤫"  
 *When I'm not coding, you'll find me swinging between bug fixes and new features!*
 
