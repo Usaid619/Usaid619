@@ -35,9 +35,6 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -49,10 +46,11 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
 ---
 
 ### 🌟 Currently Learning
+- Three.Js
+- Next.js
 - React (Advanced Concepts)
-- GSAP for animations
-- Next.js framework
-- Tailwind CSS best practices
+- GSAP (Advanced Animations)
+- Tailwind's best practices
 
 ---
 
@@ -78,19 +76,22 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
 ### 🔥 Featured Projects
 
 <div width="100%" align="center">
-  <a href="https://github.com/Usaid619/Netflix" align="left">
+  <a href="https://www.khwaahish.com/" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Netflix&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/Usaid619/Spotify1.1" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Spotify1.1&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/Usaid619/Think" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Think&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
 <br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a href="https://github.com/Usaid619/Think" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Think&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/Usaid619/Netflix" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Netflix&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Usaid619/Spotify1.1" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Usaid619&repo=Spotify1.1&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
