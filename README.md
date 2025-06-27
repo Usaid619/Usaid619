@@ -95,9 +95,9 @@ I'm a passionate frontend developer from Lucknow, India, who loves transforming 
   </a>
 </div>
 
----
-
 <br/><br/><br/><br/><br/>
+
+---
 
 ### ⚡ Fun Fact
 
